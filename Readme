@@ -1,0 +1,3 @@
+This is a discord bot to check the Everquest Forums for SOE Staff Updates since the RSS feed is broken. It posts updates as they happen.
+Note, the bot is kind of fragile and either needs some refactoring or a lot of restarting
+Code provided to get you going with your own bot of this nature. 
